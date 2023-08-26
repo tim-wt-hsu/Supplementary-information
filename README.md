@@ -1,5 +1,5 @@
 # Supplementary-information
-Supplementary information about manuscript
+This is supplementary information about manuscript, responding to the question 6 of reviewer 3 
 
 | Benchmark  | Trigger Fault Class |
 | ------------- | ------------- |
