@@ -1,8 +1,13 @@
 # Supplementary-information
 Supplementary information about manuscript
 
-| First Header  | Second Header |
+| Benchmark  | Trigger Fault Class |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| wb_conmax  |  DS (Detected by Simulation) | 
+|aes_128	    |  DS|
+|s13207	    |  DS|
+|s15850	    |  DS|
+|s38417	    |  DS|
+|b15	        |  DS|
 
+*If the the inserted signal is redundant, the fault class will be UR (Undetected 
