@@ -10,4 +10,4 @@ This is supplementary information about manuscript, responding to the question 6
 |s38417	    |  DS|
 |b15	        |  DS|
 
-*If the the inserted signal is redundant, the fault class will be UR (Undetected 
+*If the the inserted signal is redundant, the fault class will be UR (Undetected Redundant)
