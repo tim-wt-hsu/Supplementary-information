@@ -1,5 +1,5 @@
 # Supplementary-information
-This is supplementary information about manuscript, responding to the question 6 of reviewer 3 
+we employ TetraMAX to examine the redundant circuitry by checking that the inserted trigger isn't undetectable redundant.
 
 | Benchmark  | Trigger Fault Class |
 | ------------- | ------------- |
